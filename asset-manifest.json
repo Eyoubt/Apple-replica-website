@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Apple-replica-website/static/css/main.0b3e1432.chunk.css",
+    "main.js": "/Apple-replica-website/static/js/main.fa37adbd.chunk.js",
+    "main.js.map": "/Apple-replica-website/static/js/main.fa37adbd.chunk.js.map",
+    "runtime-main.js": "/Apple-replica-website/static/js/runtime-main.23641358.js",
+    "runtime-main.js.map": "/Apple-replica-website/static/js/runtime-main.23641358.js.map",
+    "static/js/2.d2aafb31.chunk.js": "/Apple-replica-website/static/js/2.d2aafb31.chunk.js",
+    "static/js/2.d2aafb31.chunk.js.map": "/Apple-replica-website/static/js/2.d2aafb31.chunk.js.map",
+    "index.html": "/Apple-replica-website/index.html",
+    "precache-manifest.0eba690a8082730cde0847235d8f845c.js": "/Apple-replica-website/precache-manifest.0eba690a8082730cde0847235d8f845c.js",
+    "service-worker.js": "/Apple-replica-website/service-worker.js",
+    "static/css/main.0b3e1432.chunk.css.map": "/Apple-replica-website/static/css/main.0b3e1432.chunk.css.map",
+    "static/js/2.d2aafb31.chunk.js.LICENSE.txt": "/Apple-replica-website/static/js/2.d2aafb31.chunk.js.LICENSE.txt",
+    "static/media/SixthContaints.css": "/Apple-replica-website/static/media/spyder.3dda7621.jpg",
+    "static/media/Header.css": "/Apple-replica-website/static/media/search.8dd1210f.svg",
+    "static/media/FifthContaint.css": "/Apple-replica-website/static/media/watch.aa3dc733.jpg",
+    "static/media/FourthContaints.css": "/Apple-replica-website/static/media/iphone11-colored.a7ef5f48.jpg",
+    "static/media/ThirdContaint.css": "/Apple-replica-website/static/media/iphone11-pro-bg.573a6b36.jpg",
+    "static/media/FirstContaint.css": "/Apple-replica-website/static/media/ipodPronew.f7f2ab1f.jpg",
+    "static/media/SecContaints.css": "/Apple-replica-website/static/media/macbookair-new.890634a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23641358.js",
+    "static/js/2.d2aafb31.chunk.js",
+    "static/css/main.0b3e1432.chunk.css",
+    "static/js/main.fa37adbd.chunk.js"
+  ]
+}
